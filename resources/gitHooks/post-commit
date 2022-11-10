@@ -1,0 +1,49 @@
+#!/bin/bash
+
+#Is necessary to install "jq" (apt install jq)
+#The version.js file needs to have a blank line at the end of file
+
+set -e
+
+#check pre-commit
+FILE=".commit-pending.dat"
+if [ -f $FILE ]
+then
+  rm -f $FILE
+else
+  exit 0
+fi
+
+#update version
+input="version.json"
+output="versionnew.json"
+rm -f $output
+while read var
+do
+  if [[ $var == *"versionCode"* ]]
+  then
+    code=$(cat "$input" | jq ".versionCode")
+    let "code=code+1"
+    echo "    \"versionCode\": $code," >> $output
+  elif [[ $var == *"version"* ]]
+  then
+    major=$(cat "$input" | jq ".version" | cut -d'.' -f1 | cut -d'"' -f2)
+    minor=$(cat "$input" | jq ".version" | cut -d'.' -f2)
+    build=$(cat "$input" | jq ".version" | cut -d'.' -f3 | cut -d'"' -f1)
+    let "build=build+1"
+    echo "    \"version\": \"$major.$minor.$build\"," >> $output
+  elif [[ $var == *"date"* ]]
+  then
+    date=$(date +"%Y-%m-%d %H:%M:%S GMT+1")
+    echo "    \"date\": \"$date\"" >> $output
+  else
+    echo $var >> $output
+  fi
+done < $input
+
+rm $input
+mv $output $input
+
+#add to commit
+git add $input
+git commit --amend -C HEAD --no-verify
