@@ -545,6 +545,7 @@ DROP TABLE IF EXISTS `SHPulseEcho`;
 /*!50503 SET character_set_client = utf8mb4 */;
 CREATE TABLE `SHPulseEcho` (
   `id` int NOT NULL AUTO_INCREMENT,
+  `option_id` int NOT NULL,
   `coil` text,
   `scanner` text,
   `tm_pe` text,
@@ -573,10 +574,89 @@ CREATE TABLE `SHPulseEcho` (
 LOCK TABLES `SHPulseEcho` WRITE;
 /*!40000 ALTER TABLE `SHPulseEcho` DISABLE KEYS */;
 INSERT INTO `SHPulseEcho` VALUES 
-(1,'205C0468 Rev 0','280A0384','205T0813-LF',0.128,'SH0',25.4,1,209.6,91.4,NULL,2,100,0.126,1.984,0.126,0.8,0),
-(2,'205C0470 Rev 0','280A0384','205T0815-LF',0.064,'SH0',50.8,2,209.6,91.4,NULL,2,100,0.126,3.968,0.126,0.8,0);
+(1, 1, '205C0468 Rev 0','280A0384','205T0813-LF',0.128,'SH0',25.4,1,209.6,91.4,NULL,2,100,0.126,1.984,0.126,0.8,0),
+(2, 2, '205C0470 Rev 0','280A0384','205T0815-LF',0.064,'SH0',50.8,2,209.6,91.4,NULL,2,100,0.126,3.968,0.126,0.8,0);
 /*!40000 ALTER TABLE `SHPulseEcho` ENABLE KEYS */;
 UNLOCK TABLES;
+
+--
+-- Table structure for table `SHPulseEchoPlates`
+--
+
+DROP TABLE IF EXISTS `SHPulseEchoPlates`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `SHPulseEchoPlates` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `option_id` int NOT NULL,
+  `coil` text,
+  `scanner` text,
+  `tm_pe` text,
+  `frequency` double DEFAULT NULL,
+  `wave_mode` text,
+  `wavelength` double DEFAULT  NULL,
+  `wlin` double DEFAULT NULL,
+  `sensor_length` double DEFAULT NULL,
+  `sensor_width` double DEFAULT NULL,
+  `sensor_height` double DEFAULT NULL,
+  `max_lift_off` double DEFAULT NULL,
+  `temperature` int DEFAULT NULL,
+  `phase_velocity` double DEFAULT NULL,
+  `delay` double DEFAULT NULL,
+  `group_velocity` double DEFAULT NULL,
+  `encoder_distance_tick` double DEFAULT NULL,
+  `reverse_directionality` int DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `SHPulseEchoPlates`
+--
+
+LOCK TABLES `SHPulseEchoPlates` WRITE;
+/*!40000 ALTER TABLE `SHPulseEchoPlates` DISABLE KEYS */;
+INSERT INTO `SHPulseEchoPlates` VALUES 
+(1, 1, '205C1197', '160A0264', '205T0813-LF', 0.128, 'SH0', 25.4, 1, 50.8, 45.92, NULL, 2, 100, 0.126, 1.984, 0.126, 0.1191, 0),
+(2, 2, '205C1198', '160A0264', '205T0815-LF', 0.064, 'SH0', 50.8, 2, 50.8, 45.92, NULL, 2, 100, 0.126, 3.968, 0.126, 0.1191, 0);
+/*!40000 ALTER TABLE `SHPulseEchoPlates` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `SHPulseEchoPlates_setup`
+--
+
+DROP TABLE IF EXISTS `SHPulseEchoPlates_setup`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `SHPulseEchoPlates_setup` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `frequency` float DEFAULT NULL,
+  `number_of_cycles` float DEFAULT NULL,
+  `prf` float DEFAULT NULL,
+  `range` int NOT NULL,
+  `sampling_frequency` float DEFAULT NULL,
+  `average` float DEFAULT NULL,
+  `noise_reduction_filter` float DEFAULT NULL,
+  `matched` varchar(42) DEFAULT NULL,
+  `g2_start` int DEFAULT NULL,
+  `g2_width` int DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `SHPulseEchoPlates_setup`
+--
+
+LOCK TABLES `SHPulseEchoPlates_setup` WRITE;
+/*!40000 ALTER TABLE `SHPulseEchoPlates_setup` DISABLE KEYS */;
+INSERT INTO `SHPulseEchoPlates_setup` VALUES 
+(1, 0.128, 2, 20, 792, 10, 0, 0, NULL, 195, 40),
+(2, 0.064, 2, 20, 792, 10, 0, 0, NULL, 195, 40);
+/*!40000 ALTER TABLE `SHPulseEchoPlates_setup` ENABLE KEYS */;
+UNLOCK TABLES;
+
 
 --
 -- Table structure for table `SHPulseEchoAxial`
@@ -1586,7 +1666,6 @@ INSERT INTO `TuningModulePB` VALUES
 /*!40000 ALTER TABLE `TuningModulePB` ENABLE KEYS */;
 UNLOCK TABLES;
 
-
 --
 -- Table structure for table `sh_setup`
 --
@@ -1603,6 +1682,8 @@ CREATE TABLE `sh_setup` (
   `matched` varchar(42) DEFAULT NULL,
   `frequency` float DEFAULT NULL,
   `prf` float DEFAULT NULL,
+  `g2_start` int DEFAULT NULL,
+  `g2_width` int DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -1614,9 +1695,9 @@ CREATE TABLE `sh_setup` (
 LOCK TABLES `sh_setup` WRITE;
 /*!40000 ALTER TABLE `sh_setup` DISABLE KEYS */;
 INSERT INTO `sh_setup` VALUES 
-(1,1,10,0,2,'No',0.128,20),
-(2,1,5,0,2,'No',0.064,20),
-(3,1,2,0,2,'No',0.032,20);
+(1, 1, 10, 0, 2, 'No', 0.128, 20, 195, 40),
+(2, 1, 5, 0, 2, 'No', 0.064, 20, 195, 40),
+(3, 1, 2, 0, 2, 'No', 0.032, 20, 195, 40);
 /*!40000 ALTER TABLE `sh_setup` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
