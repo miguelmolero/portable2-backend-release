@@ -1,0 +1,68 @@
+[
+    {
+        "option": {
+                "id": 1,
+                "coil":"205C0468 Rev 0",
+                "scanner": "280A0384",
+                "tm_pe": "205T0813-LF",
+                "frequency": 0.128,
+                "wave_mode": "SH0",
+                "wavelength": 25.4,
+                "wlin": 1,
+                "sensor_length": 209.6,
+                "sensor_width": 91.4,
+                "sensor_height": null,
+                "max_lift_off": 2,
+                "temperature": 100,
+                "phase_velocity": 0.126,
+                "delay": 1.984,
+                "group_velocity": 0.126,
+                "encoder_distance_tick": 0.8,
+                "reverse_directionality": 0,
+            "setup": {
+                "noise_reduction_filter": 1,
+                "sampling_frequency": 10,
+                "average": 0,
+                "number_of_cycles": 2,
+                "matched": "No",
+                "frequency": 0.128,
+                "prf": 20,
+                "g2_start": 195,
+                "g2_width": 40
+        }
+    } 
+    },
+    {
+        "option": {
+                "id": 1,
+                "coil":"205C0470 Rev 0",
+                "scanner": "280A0384",
+                "tm_pe": "205T0815-LF",
+                "frequency": 0.064,
+                "wave_mode": "SH0",
+                "wavelength": 50.8,
+                "wlin": 2,
+                "sensor_length": 209.6,
+                "sensor_width": 91.4,
+                "sensor_height": null,
+                "max_lift_off": 2,
+                "temperature": 100,
+                "phase_velocity": 0.126,
+                "delay": 1.984,
+                "group_velocity": 0.126,
+                "encoder_distance_tick": 0.8,
+                "reverse_directionality": 0,
+        "setup": {
+                "noise_reduction_filter": 1,
+                "sampling_frequency": 5,
+                "average": 0,
+                "number_of_cycles": 2,
+                "matched": "No",
+                "frequency": 0.064,
+                "prf": 20,
+                "g2_start": 195,
+                "g2_width": 40
+        }
+    }
+}
+]
