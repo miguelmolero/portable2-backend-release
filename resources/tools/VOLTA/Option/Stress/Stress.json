@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"sensor": "274A0157",
+		"tuning_module": "205T0801",
+		"frequency": 3.0,
+		"burst_frequency": 3.0,
+		"number_of_cycles": 2,
+		"prf": 100,
+		"sampling_frequency": 50,
+		"gain": 60,
+		"average": 32,
+		"automatic_frequency_filter_enabled": 1,
+		"bandpass_filter_auto": 40,
+		"cycle_factor": 2,
+		"noise_enabled": true,
+		"noise_type": 0
+	}
+]

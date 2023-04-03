@@ -1,0 +1,1302 @@
+[
+	{
+		"tuning_module": "205T0801",
+		"transmit_tuning_capacitance": 0,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0802",
+		"transmit_tuning_capacitance": 200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0803",
+		"transmit_tuning_capacitance": 300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0804",
+		"transmit_tuning_capacitance": 600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0805",
+		"transmit_tuning_capacitance": 800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0806",
+		"transmit_tuning_capacitance": 1100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0807",
+		"transmit_tuning_capacitance": 1700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0808",
+		"transmit_tuning_capacitance": 2400,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0809",
+		"transmit_tuning_capacitance": 4000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0810",
+		"transmit_tuning_capacitance": 5600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0811",
+		"transmit_tuning_capacitance": 8600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0812",
+		"transmit_tuning_capacitance": 13000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0813",
+		"transmit_tuning_capacitance": 20000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0814",
+		"transmit_tuning_capacitance": 28800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0802-LF",
+		"transmit_tuning_capacitance": 200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0803-LF",
+		"transmit_tuning_capacitance": 300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0804-LF",
+		"transmit_tuning_capacitance": 600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0805-LF",
+		"transmit_tuning_capacitance": 800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0806-LF",
+		"transmit_tuning_capacitance": 1100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0807-LF",
+		"transmit_tuning_capacitance": 1700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0808-LF",
+		"transmit_tuning_capacitance": 2400,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0809-LF",
+		"transmit_tuning_capacitance": 4000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0810-LF",
+		"transmit_tuning_capacitance": 5600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0811-LF",
+		"transmit_tuning_capacitance": 8600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0812-LF",
+		"transmit_tuning_capacitance": 13000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0813-LF",
+		"transmit_tuning_capacitance": 20000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0814-LF",
+		"transmit_tuning_capacitance": 28800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0815-LF",
+		"transmit_tuning_capacitance": 32000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0816-LF",
+		"transmit_tuning_capacitance": 32000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 30,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0817-LF",
+		"transmit_tuning_capacitance": 44000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0818-LF",
+		"transmit_tuning_capacitance": 53000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0819-LF",
+		"transmit_tuning_capacitance": 66000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0820-LF",
+		"transmit_tuning_capacitance": 100000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_32KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0821-LF",
+		"transmit_tuning_capacitance": 120000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_16KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0822-LF",
+		"transmit_tuning_capacitance": 133000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_16KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0823-LF",
+		"transmit_tuning_capacitance": 153000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_16KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0824-LF",
+		"transmit_tuning_capacitance": 200000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_16KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0825-LF",
+		"transmit_tuning_capacitance": 300000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_16KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0826-LF",
+		"transmit_tuning_capacitance": 400000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PULSE_ECHO",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_16KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "205T0916",
+		"transmit_tuning_capacitance": 5200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2600
+	},
+	{
+		"tuning_module": "205T0917",
+		"transmit_tuning_capacitance": 3500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1600
+	},
+	{
+		"tuning_module": "205T0918",
+		"transmit_tuning_capacitance": 1000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 500
+	},
+	{
+		"tuning_module": "205T0919",
+		"transmit_tuning_capacitance": 8100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 3800
+	},
+	{
+		"tuning_module": "205T0920",
+		"transmit_tuning_capacitance": 4100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2000
+	},
+	{
+		"tuning_module": "205T0921",
+		"transmit_tuning_capacitance": 1700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 700
+	},
+	{
+		"tuning_module": "205T0922",
+		"transmit_tuning_capacitance": 13300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 7900
+	},
+	{
+		"tuning_module": "205T0924",
+		"transmit_tuning_capacitance": 7500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 3800
+	},
+	{
+		"tuning_module": "205T0926",
+		"transmit_tuning_capacitance": 2200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1200
+	},
+	{
+		"tuning_module": "205T0933",
+		"transmit_tuning_capacitance": 18200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 9200
+	},
+	{
+		"tuning_module": "205T0930",
+		"transmit_tuning_capacitance": 8300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5000
+	},
+	{
+		"tuning_module": "205T0931",
+		"transmit_tuning_capacitance": 3600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2000
+	},
+	{
+		"tuning_module": "205T0937",
+		"transmit_tuning_capacitance": 32200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 33200
+	},
+	{
+		"tuning_module": "205T0934",
+		"transmit_tuning_capacitance": 8400,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 9000
+	},
+	{
+		"tuning_module": "205T0935",
+		"transmit_tuning_capacitance": 2500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2400
+	},
+	{
+		"tuning_module": "205T0936",
+		"transmit_tuning_capacitance": 300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_2000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 400
+	},
+	{
+		"tuning_module": "205T0939",
+		"transmit_tuning_capacitance": 28600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 12200
+	},
+	{
+		"tuning_module": "205T0940",
+		"transmit_tuning_capacitance": 8600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 4500
+	},
+	{
+		"tuning_module": "205T0938",
+		"transmit_tuning_capacitance": 3600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1600
+	},
+	{
+		"tuning_module": "205T0943",
+		"transmit_tuning_capacitance": 32200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 12500
+	},
+	{
+		"tuning_module": "205T0944",
+		"transmit_tuning_capacitance": 14700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 6000
+	},
+	{
+		"tuning_module": "205T0941",
+		"transmit_tuning_capacitance": 6200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2300
+	},
+	{
+		"tuning_module": "205T0942",
+		"transmit_tuning_capacitance": 1100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 300
+	},
+	{
+		"tuning_module": "205T0946",
+		"transmit_tuning_capacitance": 27500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 18000
+	},
+	{
+		"tuning_module": "205T0947",
+		"transmit_tuning_capacitance": 10200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 6500
+	},
+	{
+		"tuning_module": "205T0945",
+		"transmit_tuning_capacitance": 3800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2400
+	},
+	{
+		"tuning_module": "205T0950",
+		"transmit_tuning_capacitance": 20000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 13600
+	},
+	{
+		"tuning_module": "205T0948",
+		"transmit_tuning_capacitance": 5600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 3800
+	},
+	{
+		"tuning_module": "205T0949",
+		"transmit_tuning_capacitance": 1500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1000
+	},
+	{
+		"tuning_module": "205T0952",
+		"transmit_tuning_capacitance": 30100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 10400
+	},
+	{
+		"tuning_module": "205T0953",
+		"transmit_tuning_capacitance": 8600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 3200
+	},
+	{
+		"tuning_module": "205T0951",
+		"transmit_tuning_capacitance": 1500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 500
+	},
+	{
+		"tuning_module": "205T0955",
+		"transmit_tuning_capacitance": 40000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 22000
+	},
+	{
+		"tuning_module": "205T0956",
+		"transmit_tuning_capacitance": 8100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5200
+	},
+	{
+		"tuning_module": "205T0954",
+		"transmit_tuning_capacitance": 2000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1200
+	},
+	{
+		"tuning_module": "205T0958",
+		"transmit_tuning_capacitance": 100000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 28600
+	},
+	{
+		"tuning_module": "205T0959",
+		"transmit_tuning_capacitance": 21500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5900
+	},
+	{
+		"tuning_module": "205T0957",
+		"transmit_tuning_capacitance": 6300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1600
+	},
+	{
+		"tuning_module": "205T0961",
+		"transmit_tuning_capacitance": 100000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 18000
+	},
+	{
+		"tuning_module": "205T0962",
+		"transmit_tuning_capacitance": 31500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5700
+	},
+	{
+		"tuning_module": "205T0960",
+		"transmit_tuning_capacitance": 6100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1000
+	},
+	{
+		"tuning_module": "205T0963",
+		"transmit_tuning_capacitance": 1800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1800
+	},
+	{
+		"tuning_module": "205T0964",
+		"transmit_tuning_capacitance": 600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_2000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 600
+	},
+	{
+		"tuning_module": "205T0965",
+		"transmit_tuning_capacitance": 2700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2600
+	},
+	{
+		"tuning_module": "205T0966",
+		"transmit_tuning_capacitance": 1500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1300
+	},
+	{
+		"tuning_module": "205T0967",
+		"transmit_tuning_capacitance": 300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_2000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 300
+	},
+	{
+		"tuning_module": "205T0971",
+		"transmit_tuning_capacitance": 13300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 13800
+	},
+	{
+		"tuning_module": "205T0968",
+		"transmit_tuning_capacitance": 5800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5700
+	},
+	{
+		"tuning_module": "205T0969",
+		"transmit_tuning_capacitance": 2100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1800
+	},
+	{
+		"tuning_module": "205T0970",
+		"transmit_tuning_capacitance": 500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_2000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 500
+	},
+	{
+		"tuning_module": "205T0975",
+		"transmit_tuning_capacitance": 30700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 32000
+	},
+	{
+		"tuning_module": "205T0972",
+		"transmit_tuning_capacitance": 9000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 8100
+	},
+	{
+		"tuning_module": "205T0973",
+		"transmit_tuning_capacitance": 2300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2300
+	},
+	{
+		"tuning_module": "205T0974",
+		"transmit_tuning_capacitance": 300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_2000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 300
+	},
+	{
+		"tuning_module": "205T1154",
+		"transmit_tuning_capacitance": 16800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_200KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 14100
+	},
+	{
+		"tuning_module": "205T1152",
+		"transmit_tuning_capacitance": 3600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2700
+	},
+	{
+		"tuning_module": "205T1153",
+		"transmit_tuning_capacitance": 700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 600
+	},
+	{
+		"tuning_module": "205T1156",
+		"transmit_tuning_capacitance": 8200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_200KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5900
+	},
+	{
+		"tuning_module": "205T1157",
+		"transmit_tuning_capacitance": 3300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1700
+	},
+	{
+		"tuning_module": "205T1155",
+		"transmit_tuning_capacitance": 800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 300
+	},
+	{
+		"tuning_module": "205T1159",
+		"transmit_tuning_capacitance": 16800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 16800
+	},
+	{
+		"tuning_module": "205T1160",
+		"transmit_tuning_capacitance": 5200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2700
+	},
+	{
+		"tuning_module": "205T1158",
+		"transmit_tuning_capacitance": 1600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 700
+	},
+	{
+		"tuning_module": "205T1162",
+		"transmit_tuning_capacitance": 15600,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 11000
+	},
+	{
+		"tuning_module": "205T1163",
+		"transmit_tuning_capacitance": 5200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2900
+	},
+	{
+		"tuning_module": "205T1161",
+		"transmit_tuning_capacitance": 1800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 700
+	},
+	{
+		"tuning_module": "205T1164",
+		"transmit_tuning_capacitance": 40000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 20000
+	},
+	{
+		"tuning_module": "205T1166",
+		"transmit_tuning_capacitance": 7800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_2000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 3300
+	},
+	{
+		"tuning_module": "205T1167",
+		"transmit_tuning_capacitance": 2700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_HIGH_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_500KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_4000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1000
+	},
+	{
+		"tuning_module": "205T1168",
+		"transmit_tuning_capacitance": 22900,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 13200
+	},
+	{
+		"tuning_module": "205T1170",
+		"transmit_tuning_capacitance": 10100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 3600
+	},
+	{
+		"tuning_module": "205T1171",
+		"transmit_tuning_capacitance": 3700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 1500
+	},
+	{
+		"tuning_module": "205T1172",
+		"transmit_tuning_capacitance": 31000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 23200
+	},
+	{
+		"tuning_module": "205T1173",
+		"transmit_tuning_capacitance": 12200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 7400
+	},
+	{
+		"tuning_module": "205T1174",
+		"transmit_tuning_capacitance": 4200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_250KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 2200
+	},
+	{
+		"tuning_module": "205T1179",
+		"transmit_tuning_capacitance": 39800,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 20000
+	},
+	{
+		"tuning_module": "205T1180",
+		"transmit_tuning_capacitance": 20000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 12200
+	},
+	{
+		"tuning_module": "205T1182",
+		"transmit_tuning_capacitance": 8300,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 4300
+	},
+	{
+		"tuning_module": "205T1183",
+		"transmit_tuning_capacitance": 28200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 20000
+	},
+	{
+		"tuning_module": "205T1184",
+		"transmit_tuning_capacitance": 20000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 13300
+	},
+	{
+		"tuning_module": "205T1185",
+		"transmit_tuning_capacitance": 11500,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 5200
+	},
+	{
+		"tuning_module": "205T1188",
+		"transmit_tuning_capacitance": 47700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 22000
+	},
+	{
+		"tuning_module": "205T1186",
+		"transmit_tuning_capacitance": 24700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 12200
+	},
+	{
+		"tuning_module": "205T1187",
+		"transmit_tuning_capacitance": 10100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_100KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 4900
+	},
+	{
+		"tuning_module": "205T1191",
+		"transmit_tuning_capacitance": 57700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 25300
+	},
+	{
+		"tuning_module": "205T1189",
+		"transmit_tuning_capacitance": 37700,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_250KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 15400
+	},
+	{
+		"tuning_module": "205T1190",
+		"transmit_tuning_capacitance": 17100,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_63KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 6600
+	},
+	{
+		"tuning_module": "274A0490",
+		"transmit_tuning_capacitance": 0,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_DIRECT",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_1000KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_8000KHz",
+		"gain": 60,
+		"receive_tuning_capacitance": 0
+	},
+	{
+		"tuning_module": "SP-R2-0.250-500kHz",
+		"transmit_tuning_capacitance": 22200,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": " SCB_ANALOG_HIGHPASS_FILTER_200KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 8000
+	},
+	{
+		"tuning_module": "205T0242",
+		"transmit_tuning_capacitance": 30000,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": "SCB_ANALOG_HIGHPASS_FILTER_125KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_500KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 20000
+	},
+	{
+		"tuning_module": "205T0241",
+		"transmit_tuning_capacitance": 23900,
+		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
+		"mode": "SCB_MODE_PITCH_CATCH",
+		"analog_highpass_filter": " SCB_ANALOG_HIGHPASS_FILTER_200KHz",
+		"analog_lowpass_filter": "SCB_ANALOG_LOWPASS_FILTER_1000KHz",
+		"gain": 50,
+		"receive_tuning_capacitance": 8000
+	}
+]
