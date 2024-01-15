@@ -1,0 +1,105 @@
+[
+
+    {
+        "id": 1,
+        "sensor": "274A0244",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO",
+        "coils": ["205C0005","205C0034","205C0546"],
+        "settings": {
+            "distance_per_tick": 0.235,
+            "pitch": 3.175
+        }
+    },
+    {
+        "id": 2,
+        "sensor": "274A0244-C",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PITCH_CATCH",
+        "coils": ["205C1394"],
+        "settings": {
+            "distance_per_tick": 0.235,
+            "pitch": 3.175,
+            "emat_switch_coil": "EMAT_SWITCH_COIL_PITCH_CATCH_TXCOIL2_RXCOIL1"
+        }
+    },
+    {
+        "id": 3,
+        "sensor": "274A0272",
+        "scanner": "187A0102",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO",
+        "settings": {
+            "distance_per_tick": 0.235,
+            "pitch": 3.175
+        }
+    },
+    {
+        "id": 4,
+        "sensor": "274A0334",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 5,
+        "sensor": "274A0379",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 6,
+        "sensor": "274A0381",
+        "scanner": "160A0400",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 7,
+        "sensor": "274A0447",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 8,
+        "sensor": "274A0470",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 9,
+        "sensor": "274A0484",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 10,
+        "sensor": "274A0486",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 11,
+        "sensor": "274A0490",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PITCH_CATCH",
+        "settings": {
+            "distance_per_tick": 0.204,
+            "pitch": 3.175,
+            "emat_switch_coil": "EMAT_SWITCH_COIL_PITCH_CATCH_TXCOIL1_RXCOIL2"
+        }
+    },
+    {
+        "id": 12,
+        "sensor": "274A0504",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO",
+        "stressSensor": true
+    },
+    {
+        "id": 13,
+        "sensor": "274A0157",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO",
+        "stressSensor": true
+    },
+    {
+        "id": 14,
+        "sensor": "187A0102",
+        "scannerType": true 
+    },
+    {
+        "id": 15,
+        "scanner": "160A0400",
+        "settings": {
+            "distance_per_tick": 0.254,
+            "pitch": 3.175
+        }
+    }
+]

@@ -1,0 +1,529 @@
+[
+	{
+		"id": 1,
+        "metric": {
+            "nominal_thickness": 0.250,
+            "theoritical_resonance": 6.3500,
+            "burst_frequency": 11.6840,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.010,
+            "theoritical_resonance": 6.2500,
+            "burst_frequency": 11.5000,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 2,
+        "metric": {
+            "nominal_thickness": 0.275,
+            "theoritical_resonance": 5.7727,
+            "burst_frequency": 10.6218,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.011,
+            "theoritical_resonance": 5.6818,
+            "burst_frequency": 10.4545,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 3,
+        "metric": {
+            "nominal_thickness": 0.300,
+            "theoritical_resonance": 5.2917,
+            "burst_frequency": 9.7367,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.012,
+            "theoritical_resonance": 5.2083,
+            "burst_frequency": 9.5833,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 4,
+        "metric": {
+            "nominal_thickness": 0.325,
+            "theoritical_resonance": 4.8846,
+            "burst_frequency": 8.9877,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.013,
+            "theoritical_resonance": 4.8077,
+            "burst_frequency": 8.8462,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 5,
+        "metric": {
+            "nominal_thickness": 0.350,
+            "theoritical_resonance": 4.5357,
+            "burst_frequency": 8.3457,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.014,
+            "theoritical_resonance": 4.4643,
+            "burst_frequency": 8.2143,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 6,
+        "metric": {
+            "nominal_thickness": 0.375,
+            "theoritical_resonance": 4.2333,
+            "burst_frequency": 7.7893,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.015,
+            "theoritical_resonance": 4.1667,
+            "burst_frequency": 7.6667,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 7,
+        "metric": {
+            "nominal_thickness": 0.400,
+            "theoritical_resonance": 3.9688,
+            "burst_frequency": 7.3025,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.016,
+            "theoritical_resonance": 3.9063,
+            "burst_frequency": 7.1875,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 8,
+        "metric": {
+            "nominal_thickness": 0.425,
+            "theoritical_resonance": 3.7353,
+            "burst_frequency": 6.8729,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.017,
+            "theoritical_resonance": 3.6765,
+            "burst_frequency": 6.7647,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 9,
+        "metric": {
+            "nominal_thickness": 0.450,
+            "theoritical_resonance": 3.5278,
+            "burst_frequency": 6.4911,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.018,
+            "theoritical_resonance": 3.4722,
+            "burst_frequency": 6.3889,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 10,
+        "metric": {
+            "nominal_thickness": 0.475,
+            "theoritical_resonance": 3.3421,
+            "burst_frequency": 6.1495,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.019,
+            "theoritical_resonance": 3.2895,
+            "burst_frequency": 6.0526,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 11,
+        "metric": {
+            "nominal_thickness": 0.500,
+            "theoritical_resonance": 3.1750,
+            "burst_frequency": 5.8420,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.020,
+            "theoritical_resonance": 3.1250,
+            "burst_frequency": 5.7500,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 12,
+        "metric": {
+            "nominal_thickness": 0.525,
+            "theoritical_resonance": 3.0238,
+            "burst_frequency": 5.5638,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.021,
+            "theoritical_resonance": 2.9762,
+            "burst_frequency": 5.4762,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 13,
+        "metric": {
+            "nominal_thickness": 0.550,
+            "theoritical_resonance": 2.8864,
+            "burst_frequency": 5.3109,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.022,
+            "theoritical_resonance": 2.8409,
+            "burst_frequency": 5.2273,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 14,
+        "metric": {
+            "nominal_thickness": 0.575,
+            "theoritical_resonance": 2.7609,
+            "burst_frequency": 5.0800,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.023,
+            "theoritical_resonance": 2.7174,
+            "burst_frequency": 5.0000,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 15,
+        "metric": {
+            "nominal_thickness": 0.600,
+            "theoritical_resonance": 2.6458,
+            "burst_frequency": 4.8683,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.024,
+            "theoritical_resonance": 2.6042,
+            "burst_frequency": 4.7917,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 16,
+        "metric": {
+            "nominal_thickness": 0.625,
+            "theoritical_resonance": 2.5400,
+            "burst_frequency": 4.6736,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.025,
+            "theoritical_resonance": 2.5000,
+            "burst_frequency": 4.6000,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 17,
+        "metric": {
+            "nominal_thickness": 0.650,
+            "theoritical_resonance": 2.4423,
+            "burst_frequency": 4.4938,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.026,
+            "theoritical_resonance": 2.4038,
+            "burst_frequency": 4.4231,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 18,
+        "metric": {
+            "nominal_thickness": 0.675,
+            "theoritical_resonance": 2.3519,
+            "burst_frequency": 4.3274,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.027,
+            "theoritical_resonance": 2.3148,
+            "burst_frequency": 4.2593,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 19,
+        "metric": {
+            "nominal_thickness": 0.700,
+            "theoritical_resonance": 2.2679,
+            "burst_frequency": 4.1729,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.028,
+            "theoritical_resonance": 2.2321,
+            "burst_frequency": 4.1071,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 20,
+        "metric": {
+            "nominal_thickness": 0.725,
+            "theoritical_resonance": 2.1897,
+            "burst_frequency": 4.0290,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.029,
+            "theoritical_resonance": 2.1552,
+            "burst_frequency": 3.9655,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 21,
+        "metric": {
+            "nominal_thickness": 0.750,
+            "theoritical_resonance": 2.1167,
+            "burst_frequency": 3.8947,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.030,
+            "theoritical_resonance": 2.0833,
+            "burst_frequency": 3.8333,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 22,
+        "metric": {
+            "nominal_thickness": 0.775,
+            "theoritical_resonance": 2.0484,
+            "burst_frequency": 3.7690,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.031,
+            "theoritical_resonance": 2.0161,
+            "burst_frequency": 3.7097,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 23,
+        "metric": {
+            "nominal_thickness": 0.800,
+            "theoritical_resonance": 1.9844,
+            "burst_frequency": 3.6513,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.032,
+            "theoritical_resonance": 1.9531,
+            "burst_frequency": 3.5938,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 24,
+        "metric": {
+            "nominal_thickness": 0.825,
+            "theoritical_resonance": 1.9242,
+            "burst_frequency": 3.5406,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.033,
+            "theoritical_resonance": 1.8939,
+            "burst_frequency": 3.4848,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 25,
+        "metric": {
+            "nominal_thickness": 0.850,
+            "theoritical_resonance": 1.8676,
+            "burst_frequency": 3.4365,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.034,
+            "theoritical_resonance": 1.8382,
+            "burst_frequency": 3.3824,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 26,
+        "metric": {
+            "nominal_thickness": 0.875,
+            "theoritical_resonance": 1.8143,
+            "burst_frequency": 3.3383,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.035,
+            "theoritical_resonance": 1.7857,
+            "burst_frequency": 3.2857,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 27,
+        "metric": {
+            "nominal_thickness": 0.900,
+            "theoritical_resonance": 1.7639,
+            "burst_frequency": 3.2456,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.036,
+            "theoritical_resonance": 1.7361,
+            "burst_frequency": 3.1944,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 28,
+        "metric": {
+            "nominal_thickness": 0.925,
+            "theoritical_resonance": 1.7162,
+            "burst_frequency": 3.1578,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.037,
+            "theoritical_resonance": 1.6892,
+            "burst_frequency": 3.1081,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 29,
+        "metric": {
+            "nominal_thickness": 0.950,
+            "theoritical_resonance": 1.6711,
+            "burst_frequency": 3.0747,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.038,
+            "theoritical_resonance": 1.6447,
+            "burst_frequency": 3.0263,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 30,
+        "metric": {
+            "nominal_thickness": 0.975,
+            "theoritical_resonance": 1.6282,
+            "burst_frequency": 2.9959,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.039,
+            "theoritical_resonance": 1.6026,
+            "burst_frequency": 2.9487,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	},
+    {
+		"id": 31,
+        "metric": {
+            "nominal_thickness": 1.000,
+            "theoritical_resonance": 1.5875,
+            "burst_frequency": 2.9210,
+            "shear_wave_velocity": 3.175,
+            "longitudinal_wave_velocity": 5.842
+        },
+		"imperial": {
+            "nominal_thickness": 0.040,
+            "theoritical_resonance": 1.5625,
+            "burst_frequency": 2.8750,
+            "shear_wave_velocity": 0.125,
+            "longitudinal_wave_velocity": 0.23
+        }
+	}
+]

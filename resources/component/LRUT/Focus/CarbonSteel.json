@@ -1,0 +1,2502 @@
+[
+    {
+        "nominal_pipe_size": 4,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_5",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 28
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 28
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 28
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 28
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 28
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.544,
+                        "scanning_positions": 26
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.544,
+                        "scanning_positions": 26
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XXH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.767,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.544,
+                        "scanning_positions": 26
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 5,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_5",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.748,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.971,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.485,
+                        "scanning_positions": 36
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.748,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.971,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.485,
+                        "scanning_positions": 36
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.748,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.971,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 34
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.748,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.971,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 34
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.185,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.092,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 34
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.185,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.092,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.546,
+                        "scanning_positions": 32
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XXH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.185,
+                        "scanning_positions": 8
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.092,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.546,
+                        "scanning_positions": 32
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 6,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_5",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.734,
+                        "scanning_positions": 12
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.946,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.496,
+                        "scanning_positions": 42
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.734,
+                        "scanning_positions": 12
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.946,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.496,
+                        "scanning_positions": 42
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.081,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.041,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.520,
+                        "scanning_positions": 40
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.081,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.041,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.520,
+                        "scanning_positions": 40
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.081,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.041,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.520,
+                        "scanning_positions": 40
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.081,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.041,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.548,
+                        "scanning_positions": 38
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XXH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.081,
+                        "scanning_positions": 10
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.041,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.548,
+                        "scanning_positions": 38
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 8,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_5",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.968,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.502,
+                        "scanning_positions": 54
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.968,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.502,
+                        "scanning_positions": 54
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.968,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.502,
+                        "scanning_positions": 54
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.968,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.502,
+                        "scanning_positions": 54
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.968,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.502,
+                        "scanning_positions": 54
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.521,
+                        "scanning_positions": 52
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.521,
+                        "scanning_positions": 52
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.521,
+                        "scanning_positions": 52
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.521,
+                        "scanning_positions": 52
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.521,
+                        "scanning_positions": 52
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.542,
+                        "scanning_positions": 50
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XXH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.935,
+                        "scanning_positions": 14
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.042,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.542,
+                        "scanning_positions": 50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 10,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_5",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.876,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.497,
+                        "scanning_positions": 68
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.876,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.497,
+                        "scanning_positions": 68
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.876,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.497,
+                        "scanning_positions": 68
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.876,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.512,
+                        "scanning_positions": 66
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.876,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.512,
+                        "scanning_positions": 66
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.876,
+                        "scanning_positions": 18
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.512,
+                        "scanning_positions": 66
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.111,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.993,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.512,
+                        "scanning_positions": 66
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.111,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.055,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.528,
+                        "scanning_positions": 64
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.111,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.055,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.528,
+                        "scanning_positions": 64
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.111,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.055,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.528,
+                        "scanning_positions": 64
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.111,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.055,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.528,
+                        "scanning_positions": 64
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.111,
+                        "scanning_positions": 16
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.055,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.528,
+                        "scanning_positions": 64
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 12,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_5",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 80
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 80
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 80
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 80
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 78
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 78
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 78
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.054,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.527,
+                        "scanning_positions": 76
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.054,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.527,
+                        "scanning_positions": 76
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.054,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.527,
+                        "scanning_positions": 76
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.054,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.527,
+                        "scanning_positions": 76
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 80
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.003,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.001,
+                        "scanning_positions": 40
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 14,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.000,
+                        "scanning_positions": 44
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.500,
+                        "scanning_positions": 88
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.000,
+                        "scanning_positions": 44
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.500,
+                        "scanning_positions": 88
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.000,
+                        "scanning_positions": 44
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.511,
+                        "scanning_positions": 86
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.000,
+                        "scanning_positions": 44
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.511,
+                        "scanning_positions": 86
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.000,
+                        "scanning_positions": 44
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.511,
+                        "scanning_positions": 86
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 42
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 84
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 42
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 84
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 42
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 84
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 42
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 84
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.199,
+                        "scanning_positions": 20
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 42
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 84
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.999,
+                        "scanning_positions": 22
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.000,
+                        "scanning_positions": 44
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.511,
+                        "scanning_positions": 86
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 16,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.933,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.005,
+                        "scanning_positions": 50
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.503,
+                        "scanning_positions": 100
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.933,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.005,
+                        "scanning_positions": 50
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.503,
+                        "scanning_positions": 100
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.933,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.005,
+                        "scanning_positions": 50
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.503,
+                        "scanning_positions": 100
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.933,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.005,
+                        "scanning_positions": 50
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.513,
+                        "scanning_positions": 98
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.933,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.005,
+                        "scanning_positions": 50
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.513,
+                        "scanning_positions": 98
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 24
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 48
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.513,
+                        "scanning_positions": 98
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 24
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 48
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 96
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 24
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 48
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 96
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 24
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 48
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 96
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 24
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 48
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 96
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 18,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 112
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 112
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 112
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 112
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 110
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 54
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.514,
+                        "scanning_positions": 110
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 54
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 108
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 54
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 108
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.175,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 54
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 108
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.175,
+                        "scanning_positions": 26
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 54
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 108
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 112
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.020,
+                        "scanning_positions": 28
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.010,
+                        "scanning_positions": 56
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.505,
+                        "scanning_positions": 112
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 20,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.963,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.982,
+                        "scanning_positions": 64
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.499,
+                        "scanning_positions": 126
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.963,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.013,
+                        "scanning_positions": 62
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.507,
+                        "scanning_positions": 124
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.963,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.013,
+                        "scanning_positions": 62
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.507,
+                        "scanning_positions": 124
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.963,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.013,
+                        "scanning_positions": 62
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.507,
+                        "scanning_positions": 124
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.963,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.013,
+                        "scanning_positions": 62
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.515,
+                        "scanning_positions": 122
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 30
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 60
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.515,
+                        "scanning_positions": 122
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 30
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 60
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.515,
+                        "scanning_positions": 122
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 30
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 60
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 120
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 30
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 60
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 120
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 30
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 60
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.524,
+                        "scanning_positions": 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 22,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.920,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.987,
+                        "scanning_positions": 70
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 138
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.920,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.987,
+                        "scanning_positions": 70
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.501,
+                        "scanning_positions": 138
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.033,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.016,
+                        "scanning_positions": 68
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.508,
+                        "scanning_positions": 136
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.033,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.016,
+                        "scanning_positions": 68
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 134
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.033,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 66
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 134
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.033,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 66
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 134
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.033,
+                        "scanning_positions": 34
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 66
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 134
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.160,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 66
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 134
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.160,
+                        "scanning_positions": 32
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 66
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 134
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nominal_pipe_size": 24,
+        "schedule_options": [
+            {
+                "schedule_enum": "SCHEDULE_10",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.984,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.992,
+                        "scanning_positions": 76
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.503,
+                        "scanning_positions": 150
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_20_STD",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.984,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.992,
+                        "scanning_positions": 76
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.503,
+                        "scanning_positions": 150
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_30",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.984,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.019,
+                        "scanning_positions": 74
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.509,
+                        "scanning_positions": 148
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_40",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.984,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.019,
+                        "scanning_positions": 74
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.509,
+                        "scanning_positions": 148
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_60",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.984,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.019,
+                        "scanning_positions": 74
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 146
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_80",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 72
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 146
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_100",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 72
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 146
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_120",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 72
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 146
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_140",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 72
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 146
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_160",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 2.094,
+                        "scanning_positions": 36
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 1.047,
+                        "scanning_positions": 72
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.516,
+                        "scanning_positions": 146
+                    }
+                ]
+            },
+            {
+                "schedule_enum": "SCHEDULE_XH",
+                "frequency_options": [
+                    {
+                        "frequency": 0.032,
+                        "pitch": 1.984,
+                        "scanning_positions": 38
+                    },
+                    {
+                        "frequency": 0.064,
+                        "pitch": 0.992,
+                        "scanning_positions": 76
+                    },
+                    {
+                        "frequency": 0.128,
+                        "pitch": 0.503,
+                        "scanning_positions": 150
+                    }
+                ]
+            }
+        ]
+    }
+]

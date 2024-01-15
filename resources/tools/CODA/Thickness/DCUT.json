@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "sensor": "281A0030",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    },
+    {
+        "id": 2,
+        "sensor": "281A0320",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO",
+        "settings": {
+            "distance_per_tick": 0.232,
+            "pitch": 3.175
+        }
+    },
+    {
+        "id": 3,
+        "sensor": "281A0297",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_EMAT_PULSE_ECHO"
+    }
+]

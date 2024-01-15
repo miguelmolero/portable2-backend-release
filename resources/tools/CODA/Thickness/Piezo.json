@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "sensor": "Piezo T/R (PE)",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_PIEZO_PULSE_ECHO"
+    },
+    {
+        "id": 2,
+        "sensor": "Piezo T-R (PC)",
+        "sensor_mux_type": "SENSOR_MUX_TYPE_PIEZO_PITCH_CATCH"
+    }
+]

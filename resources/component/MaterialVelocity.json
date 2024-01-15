@@ -1,0 +1,127 @@
+[
+    {
+		"id": 0,
+        "shear_wave_velocity": 3.130,
+        "longitudinal_wave_velocity": 6.375
+	},
+    {
+		"id": 1,
+        "shear_wave_velocity": 3.240,
+        "longitudinal_wave_velocity": 5.893
+	},
+    {
+		"id": 2,
+        "shear_wave_velocity": 3.240,
+        "longitudinal_wave_velocity": 5.918
+	},
+    {
+		"id": 10,
+        "shear_wave_velocity": 3.120,
+        "longitudinal_wave_velocity": 5.664
+	},
+    {
+		"id": 20,
+        "shear_wave_velocity": 2.260,
+        "longitudinal_wave_velocity": 4.648
+	},
+    {
+		"id": 21,
+        "shear_wave_velocity": 2.120,
+        "longitudinal_wave_velocity": 4.394
+	},
+    {
+		"id": 22,
+        "shear_wave_velocity": 2.410,
+        "longitudinal_wave_velocity": 4.216
+	},
+    {
+		"id": 23,
+        "shear_wave_velocity": 1.670,
+        "longitudinal_wave_velocity": 3.327
+	},
+    {
+		"id": 24,
+        "shear_wave_velocity": 2.720,
+        "longitudinal_wave_velocity": 5.359
+	},
+    {
+		"id": 25,
+        "shear_wave_velocity": 3.120,
+        "longitudinal_wave_velocity": 6.096
+	},
+    {
+		"id": 26,
+        "shear_wave_velocity": 3.020,
+        "longitudinal_wave_velocity": 5.817
+	},
+    {
+		"id": 27,
+        "shear_wave_velocity": 3.050,
+        "longitudinal_wave_velocity": 5.842
+	},
+    {
+		"id": 28,
+        "shear_wave_velocity": 2.970,
+        "longitudinal_wave_velocity": 5.639
+	},
+    {
+		"id": 29,
+        "shear_wave_velocity": 3.350,
+        "longitudinal_wave_velocity": 6.248
+	},
+    {
+		"id": 30,
+        "shear_wave_velocity": 1.500,
+        "longitudinal_wave_velocity": 2.769
+	},
+    {
+		"id": 31,
+        "shear_wave_velocity": 3.230,
+        "longitudinal_wave_velocity": 5.893
+	},
+    {
+		"id": 32,
+        "shear_wave_velocity": 2.870,
+        "longitudinal_wave_velocity": 5.182
+	},
+    {
+		"id": 33,
+        "shear_wave_velocity": 1.980,
+        "longitudinal_wave_velocity": 3.378
+	},
+    {
+		"id": 34,
+        "shear_wave_velocity": 1.194,
+        "longitudinal_wave_velocity": 3.251
+	},
+    {
+		"id": 35,
+        "shear_wave_velocity": 1.670,
+        "longitudinal_wave_velocity": 3.962
+	},
+    {
+		"id": 36,
+        "shear_wave_velocity": 2.100,
+        "longitudinal_wave_velocity": 4.928
+	},
+    {
+		"id": 37,
+        "shear_wave_velocity": 2.250,
+        "longitudinal_wave_velocity": 4.648
+	},
+    {
+		"id": 50,
+        "shear_wave_velocity": 1.090,
+        "longitudinal_wave_velocity": 2.692
+	},
+    {
+		"id": 51,
+        "shear_wave_velocity": 1.060,
+        "longitudinal_wave_velocity": 2.388
+	},
+    {
+		"id": 52,
+        "shear_wave_velocity": 1.270,
+        "longitudinal_wave_velocity": 2.692
+	}
+]
