@@ -6,6 +6,7 @@
 		"tm_pe": "205T0813-LF",
 		"frequency": 0.128,
 		"burst_frequency": 0.128,
+		"voltage": 500,
 		"wave_mode": "SH0",
 		"wavelength": 25.4,
 		"wlin": 1,
@@ -27,7 +28,7 @@
 		"bandpass_filter_auto": 0,
 		"lower_cutoff_frequency": 0.064,
 		"upper_cutoff_frequency": 0.192,
-		"prf": 20,
+		"prf": 10,
 		"g2_start": 195,
 		"g2_width": 40
 	},
@@ -38,6 +39,7 @@
 		"tm_pe": "205T0815-LF",
 		"frequency": 0.064,
 		"burst_frequency": 0.128,
+		"voltage": 500,
 		"wave_mode": "SH0",
 		"wavelength": 50.8,
 		"wlin": 2,
@@ -59,7 +61,7 @@
 		"bandpass_filter_auto": 0,
 		"lower_cutoff_frequency": 0.032,
 		"upper_cutoff_frequency": 0.096,
-		"prf": 20,
+		"prf": 10,
 		"g2_start": 195,
 		"g2_width": 40
 	}

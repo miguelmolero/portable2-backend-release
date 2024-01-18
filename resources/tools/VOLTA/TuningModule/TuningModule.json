@@ -1280,7 +1280,7 @@
 		"receive_tuning_capacitance": 8000
 	},
 	{
-		"tuning_module": "205T0242",
+		"tuning_module": "205T1242",
 		"transmit_tuning_capacitance": 30000,
 		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
 		"mode": "SCB_MODE_PITCH_CATCH",
@@ -1290,7 +1290,7 @@
 		"receive_tuning_capacitance": 20000
 	},
 	{
-		"tuning_module": "205T0241",
+		"tuning_module": "205T1241",
 		"transmit_tuning_capacitance": 23900,
 		"transmit_path_selection": "SCB_TRANSMIT_PATH_LOW_FREQUENCY_TRANSFORMER",
 		"mode": "SCB_MODE_PITCH_CATCH",
